@@ -1,5 +1,4 @@
-Signal Sampling & Reconstruction Studio Nyquist Theory Based [DSP Task4]
-
+Signals Interpolation & Curve Fitting [DSP Task4]
 
 # Signal Sampling & Reconstruction Studio — Curve Fitting Tool
 
